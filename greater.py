@@ -14,4 +14,5 @@ if name == "ketil":
     print("******************")
     print("what day is it?")
     print("time")
-    input("")    
+    input("want a lesson in trickery?")
+    input("more trickery?")    
